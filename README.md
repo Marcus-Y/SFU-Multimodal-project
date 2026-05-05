@@ -1,7 +1,9 @@
 # Authors
 
 Keanu Chen
+
 Richard Zhang
+
 Marcus Yau
 
 # Overview
