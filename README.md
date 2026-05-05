@@ -1,3 +1,9 @@
+# Authors
+
+Keanu Chen
+Richard Zhang
+Marcus Yau
+
 # Overview
 
 Our program looks to combine multimodal user input such as speech, audio and text (extracted from speech) in order to infer an emotion from a user based on their voice and expressions.
