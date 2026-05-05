@@ -1,0 +1,21 @@
+phrase,groundtruth
+"The sun is shining, and the birds are singing. It's a beautiful day!",happy
+"I just got promoted at work, I'm over the moon!",happy
+"Seeing your smile brightens up my day.",happy
+"It's been raining all day, I miss the sunshine.",sad
+"I feel a pang of sadness whenever I think of our old home.",sad
+"The movie ended on a sad note, it left me feeling blue.",sad
+"I can't stand the sight of litter in the park.",disgust
+"The smell of rotten eggs is revolting.",disgust
+"I felt a wave of disgust when I saw the cruelty on the news.",disgust
+"Walking alone in the dark alley gave me the creeps.",fear
+"The thought of public speaking gives me butterflies in my stomach.",fear
+"I heard a strange noise in the middle of the night, it sent chills down my spine.",fear
+"I couldn't believe my eyes when I saw the surprise party they threw for me.",surprise
+"The plot twist in the novel took me by surprise.",surprise
+"I was taken aback when I found out I won the lottery.",surprise
+"The traffic jam made me see red.",anger
+"I was fuming when I found out they canceled my favorite show.",anger
+"It grinds my gears when people don't respect personal space.",anger
+"I feel on top of the world when I'm with my friends.",happy
+"It really annoys me when people are late without a good reason.",anger
