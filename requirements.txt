@@ -1,0 +1,13 @@
+tensorflow==2.10.0
+keras==2.10.0
+protobuf==3.20.*
+pandas
+numpy
+SpeechRecognition
+sounddevice
+scikit-learn
+pynput
+librosa
+ollama
+resampy
+opencv-python
